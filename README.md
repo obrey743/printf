@@ -1,0 +1,1 @@
+This is a collaborative C programming project between Obrey Muchena and Edward Phiri. The project will be developed using C programming language, and all files will be compiled on Ubuntu 20.04 LTS using gcc. The allowed editors for this project are vi, vim
